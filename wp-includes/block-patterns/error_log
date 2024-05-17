@@ -1,0 +1,28 @@
+[14-Mar-2024 06:35:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/cucisofacirebon.com/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/block-patterns/query-grid-posts.php on line 9
+[14-Mar-2024 06:35:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/cucisofacirebon.com/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[14-Mar-2024 06:35:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/cucisofacirebon.com/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/block-patterns/query-medium-posts.php on line 9
+[14-Mar-2024 06:35:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/cucisofacirebon.com/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/block-patterns/query-offset-posts.php on line 9
+[14-Mar-2024 06:36:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/cucisofacirebon.com/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/block-patterns/query-small-posts.php on line 9
+[14-Mar-2024 06:36:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/cucisofacirebon.com/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/block-patterns/query-standard-posts.php on line 9
+[14-Mar-2024 06:36:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/cucisofacirebon.com/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/block-patterns/social-links-shared-background-color.php on line 9

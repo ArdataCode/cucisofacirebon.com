@@ -1,0 +1,4 @@
+[14-Mar-2024 06:47:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/ujianori/cucisofacirebon.com/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/sodium_compat/lib/ristretto255.php on line 6

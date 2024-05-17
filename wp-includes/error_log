@@ -1,0 +1,28 @@
+[14-Mar-2024 06:37:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/cucisofacirebon.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/class-wp-http.php on line 11
+[14-Mar-2024 06:37:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/cucisofacirebon.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/class-wp-scripts.php on line 18
+[14-Mar-2024 06:37:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/cucisofacirebon.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/class-wp-styles.php on line 18
+[14-Mar-2024 06:47:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ujianori/cucisofacirebon.com/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/template-canvas.php on line 12
+[20-Mar-2024 00:46:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/cucisofacirebon.com/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/class-wp-http.php on line 11
+[20-Mar-2024 00:47:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/cucisofacirebon.com/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/class-wp-scripts.php on line 18
+[20-Mar-2024 00:47:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/cucisofacirebon.com/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/class-wp-styles.php on line 18

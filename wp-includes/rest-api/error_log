@@ -1,0 +1,4 @@
+[14-Mar-2024 06:44:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/ujianori/cucisofacirebon.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/rest-api/class-wp-rest-response.php on line 17

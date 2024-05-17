@@ -1,0 +1,60 @@
+[14-Mar-2024 06:36:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/align.php on line 59
+[14-Mar-2024 06:36:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/background.php on line 111
+[14-Mar-2024 06:36:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/border.php on line 170
+[14-Mar-2024 06:36:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/colors.php on line 138
+[14-Mar-2024 06:36:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/custom-classname.php on line 59
+[14-Mar-2024 06:36:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/dimensions.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/dimensions.php on line 87
+[14-Mar-2024 06:36:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/duotone.php on line 36
+[14-Mar-2024 06:36:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/elements.php on line 231
+[14-Mar-2024 06:36:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/generated-classname.php on line 66
+[14-Mar-2024 06:36:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/layout.php:851
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/layout.php on line 851
+[14-Mar-2024 06:36:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/position.php on line 145
+[14-Mar-2024 06:36:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/settings.php on line 151
+[14-Mar-2024 06:36:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/shadow.php on line 76
+[14-Mar-2024 06:37:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/spacing.php on line 83
+[14-Mar-2024 06:37:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/typography.php:646
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/block-supports/typography.php on line 646

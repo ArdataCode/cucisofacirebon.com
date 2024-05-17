@@ -1,0 +1,41 @@
+.automatic-radio-group {
+    display: inline-block;
+    width: 100%;
+}
+
+.automatic-radio-group .ju-radio-group {
+    float: unset !important;
+    margin: 10px 0;
+}
+
+.automatic-radio-group .ju-radio-group label {
+    margin: 0 30px;
+}
+
+.automatic-radio-group .ju-radio-group label:first-child {
+    margin-left: 0;
+}
+
+.automatic-radio-group .ju-radio-group span {
+    font-size: 16px;
+}
+
+a.ju-disconnected-autoconnect {
+    cursor: default;
+    background-color: #ddd;
+    border: 1px solid #ddd;
+    box-shadow: none;
+}
+
+.box-shadow-none {
+    box-shadow: unset;
+
+}
+
+.m-b-0 {
+    margin-bottom: 0 !important;
+}
+
+.ju-connect-message p {
+    font-size: 14px;
+}

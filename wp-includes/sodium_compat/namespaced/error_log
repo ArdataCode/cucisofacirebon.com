@@ -1,0 +1,12 @@
+[14-Mar-2024 06:47:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/ujianori/cucisofacirebon.com/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[14-Mar-2024 06:47:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/ujianori/cucisofacirebon.com/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[14-Mar-2024 06:47:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_File" not found in /home/ujianori/cucisofacirebon.com/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/sodium_compat/namespaced/File.php on line 4

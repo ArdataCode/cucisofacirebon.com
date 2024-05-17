@@ -1,0 +1,12 @@
+[14-Mar-2024 06:46:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/ujianori/cucisofacirebon.com/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[14-Mar-2024 06:46:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/ujianori/cucisofacirebon.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[14-Mar-2024 06:46:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/ujianori/cucisofacirebon.com/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17

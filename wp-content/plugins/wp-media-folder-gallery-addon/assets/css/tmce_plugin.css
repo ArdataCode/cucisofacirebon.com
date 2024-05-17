@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+
+/** in tinyMce Editor **/
+.wpmfglred {
+    border: 1px dashed #888;
+    background: #444444 url('../images/ic_photo_album_white_48dp_2x.png') no-repeat scroll center center;
+    width: 99%;
+    height: 200px;
+}
+
+#wpmfglr_toolbar {
+    position: absolute;
+    margin: 10px;
+    color: #fff;
+}
+
+#wpmfglr_toolbar .edit, #wpmfglr_toolbar .remove {
+    font-size: 30px;
+    width: 30px;
+    height: 30px;
+}

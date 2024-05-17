@@ -1,0 +1,24 @@
+[14-Mar-2024 06:32:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/cucisofacirebon.com/wp-includes/SimplePie/Cache/DB.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/SimplePie/Cache/DB.php on line 50
+[14-Mar-2024 06:32:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/cucisofacirebon.com/wp-includes/SimplePie/Cache/File.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/SimplePie/Cache/File.php on line 50
+[14-Mar-2024 06:32:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/cucisofacirebon.com/wp-includes/SimplePie/Cache/Memcache.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/SimplePie/Cache/Memcache.php on line 57
+[14-Mar-2024 06:32:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/cucisofacirebon.com/wp-includes/SimplePie/Cache/Memcached.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/SimplePie/Cache/Memcached.php on line 58
+[14-Mar-2024 06:32:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie_Cache_DB" not found in /home/ujianori/cucisofacirebon.com/wp-includes/SimplePie/Cache/MySQL.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/SimplePie/Cache/MySQL.php on line 56
+[14-Mar-2024 06:32:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/cucisofacirebon.com/wp-includes/SimplePie/Cache/Redis.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/SimplePie/Cache/Redis.php on line 27

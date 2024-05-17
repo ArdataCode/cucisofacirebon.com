@@ -1,0 +1,84 @@
+[14-Mar-2024 06:48:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[14-Mar-2024 06:48:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[14-Mar-2024 06:48:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[14-Mar-2024 06:48:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[14-Mar-2024 06:48:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[14-Mar-2024 06:49:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[14-Mar-2024 06:49:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-links.php on line 17
+[14-Mar-2024 06:49:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[14-Mar-2024 06:49:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[14-Mar-2024 06:49:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[14-Mar-2024 06:49:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[14-Mar-2024 06:49:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-media.php on line 17
+[14-Mar-2024 06:49:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[14-Mar-2024 06:49:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[14-Mar-2024 06:49:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[14-Mar-2024 06:49:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[14-Mar-2024 06:49:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[14-Mar-2024 06:49:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-search.php on line 17
+[14-Mar-2024 06:49:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[14-Mar-2024 06:49:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-text.php on line 17
+[20-Mar-2024 00:50:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/widgets/class-wp-widget-block.php on line 17

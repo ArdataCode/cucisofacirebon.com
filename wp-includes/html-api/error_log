@@ -1,0 +1,4 @@
+[14-Mar-2024 06:41:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/ujianori/cucisofacirebon.com/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/html-api/class-wp-html-processor.php on line 131

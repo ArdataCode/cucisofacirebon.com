@@ -1,0 +1,1899 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Autodrive",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Cars",
+            "screenshot": "screenshots\/our-cars.jpg",
+            "source": "templates\/our-cars.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/template-kit\/our-cars\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Car Details",
+            "screenshot": "screenshots\/car-details.jpg",
+            "source": "templates\/car-details.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/template-kit\/car-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Book a Car",
+            "screenshot": "screenshots\/book-a-car.jpg",
+            "source": "templates\/book-a-car.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/template-kit\/book-a-car\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Locations",
+            "screenshot": "screenshots\/locations.jpg",
+            "source": "templates\/locations.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/template-kit\/locations\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Coming soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/template-kit\/coming-soon\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Popup Banners",
+            "screenshot": "screenshots\/popup-banners.jpg",
+            "source": "templates\/popup-banners.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/?elementor_library=popup-banners",
+            "type": "popup",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-popup",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "popup",
+                "elementor_pro_conditions": [
+                    "include\/singular\/front_page"
+                ],
+                "additional_template_information": [
+                    "This is a \"Popup\" template for Elementor Pro.",
+                    "This template will display on: Front Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Error 404",
+            "screenshot": "screenshots\/error-404.jpg",
+            "source": "templates\/error-404.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/?elementor_library=error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/?elementor_library=single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Archive",
+            "screenshot": "screenshots\/archive.jpg",
+            "source": "templates\/archive.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/?elementor_library=archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.5.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.5.2",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logo-autodrive-dark.png",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/logo-autodrive-dark.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 2727,
+            "dimensions": [
+                188,
+                42
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "hero-home.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/hero-home-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 110399,
+            "dimensions": [
+                1600,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-driving-sports-car-with-a-digital-touchscree-U8JHWCE"
+        },
+        {
+            "filename": "fleet-card.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/fleet-card.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-cars.json",
+                    "name": "Our Cars"
+                },
+                {
+                    "source": "templates\/car-details.json",
+                    "name": "Car Details"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 38124,
+            "dimensions": [
+                596,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-multicolored-3d-modern-cars-PZGF3V4"
+        },
+        {
+            "filename": "fleet-card-1.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/fleet-card-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-cars.json",
+                    "name": "Our Cars"
+                },
+                {
+                    "source": "templates\/car-details.json",
+                    "name": "Car Details"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 31105,
+            "dimensions": [
+                596,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-multicolored-3d-modern-cars-PZGF3V4"
+        },
+        {
+            "filename": "fleet-card-2.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/fleet-card-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-cars.json",
+                    "name": "Our Cars"
+                },
+                {
+                    "source": "templates\/car-details.json",
+                    "name": "Car Details"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 39856,
+            "dimensions": [
+                596,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-multicolored-3d-modern-cars-PZGF3V4"
+        },
+        {
+            "filename": "fleet-card-3.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/fleet-card-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-cars.json",
+                    "name": "Our Cars"
+                },
+                {
+                    "source": "templates\/car-details.json",
+                    "name": "Car Details"
+                }
+            ],
+            "filesize": 37904,
+            "dimensions": [
+                596,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-multicolored-3d-modern-cars-PZGF3V4"
+        },
+        {
+            "filename": "fleet-card-4.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/fleet-card-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-cars.json",
+                    "name": "Our Cars"
+                }
+            ],
+            "filesize": 37587,
+            "dimensions": [
+                596,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-multicolored-3d-modern-cars-PZGF3V4"
+        },
+        {
+            "filename": "fleet-card-5.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/fleet-card-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-cars.json",
+                    "name": "Our Cars"
+                }
+            ],
+            "filesize": 34058,
+            "dimensions": [
+                596,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-multicolored-3d-modern-cars-PZGF3V4"
+        },
+        {
+            "filename": "fleet-card-6.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/fleet-card-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-cars.json",
+                    "name": "Our Cars"
+                }
+            ],
+            "filesize": 39073,
+            "dimensions": [
+                596,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-multicolored-3d-modern-cars-PZGF3V4"
+        },
+        {
+            "filename": "fleet-card-7.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/fleet-card-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-cars.json",
+                    "name": "Our Cars"
+                },
+                {
+                    "source": "templates\/car-details.json",
+                    "name": "Car Details"
+                }
+            ],
+            "filesize": 41156,
+            "dimensions": [
+                596,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-multicolored-3d-modern-cars-PZGF3V4"
+        },
+        {
+            "filename": "fleet-card-8.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/fleet-card-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-cars.json",
+                    "name": "Our Cars"
+                }
+            ],
+            "filesize": 38130,
+            "dimensions": [
+                596,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-multicolored-3d-modern-cars-PZGF3V4"
+        },
+        {
+            "filename": "bg-steps.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/bg-steps-800x209.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-cars.json",
+                    "name": "Our Cars"
+                },
+                {
+                    "source": "templates\/book-a-car.json",
+                    "name": "Book a Car"
+                }
+            ],
+            "filesize": 59520,
+            "dimensions": [
+                1600,
+                418
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-man-using-navigation-system-while-driving-YW3Q8H7"
+        },
+        {
+            "filename": "line-pattern.png",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/line-pattern.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-cars.json",
+                    "name": "Our Cars"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/book-a-car.json",
+                    "name": "Book a Car"
+                }
+            ],
+            "filesize": 642,
+            "dimensions": [
+                510,
+                658
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "map-location.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/map-location-800x663.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/book-a-car.json",
+                    "name": "Book a Car"
+                },
+                {
+                    "source": "templates\/locations.json",
+                    "name": "Locations"
+                }
+            ],
+            "filesize": 73524,
+            "dimensions": [
+                838,
+                695
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/vector-dotted-world-map-4MLXK3M"
+        },
+        {
+            "filename": "car-loc.png",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/car-loc-800x189.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/locations.json",
+                    "name": "Locations"
+                }
+            ],
+            "filesize": 84124,
+            "dimensions": [
+                1050,
+                248
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/studio-shot-of-colorful-generic-cars-P34X6E6"
+        },
+        {
+            "filename": "founder-autodrive-about.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/founder-autodrive-about.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 17581,
+            "dimensions": [
+                128,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/serious-determined-young-business-man-L48UZD3"
+        },
+        {
+            "filename": "dots.png",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/dots.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/car-details.json",
+                    "name": "Car Details"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 417,
+            "dimensions": [
+                95,
+                93
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "service1.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/service1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 44207,
+            "dimensions": [
+                660,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/radiator-grille-of-a-new-luxury-car-XV4W7R3"
+        },
+        {
+            "filename": "service2.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/service2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 32248,
+            "dimensions": [
+                660,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/back-passenger-seats-in-modern-luxury-car-PBTXQGS"
+        },
+        {
+            "filename": "service3.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/service3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 31638,
+            "dimensions": [
+                660,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/are-you-ready-to-go-KX3LNBK"
+        },
+        {
+            "filename": "logo-color-1.png",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/logo-color-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 2315,
+            "dimensions": [
+                132,
+                35
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-color-2.png",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/logo-color-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 2935,
+            "dimensions": [
+                132,
+                27
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-color-3.png",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/logo-color-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 1949,
+            "dimensions": [
+                132,
+                35
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-color-8.png",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/logo-color-8.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 4160,
+            "dimensions": [
+                155,
+                44
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-color-9.png",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/logo-color-9.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 2397,
+            "dimensions": [
+                128,
+                40
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-color-10.png",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/logo-color-10.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 2497,
+            "dimensions": [
+                139,
+                30
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-color-11.png",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/logo-color-11.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 2546,
+            "dimensions": [
+                141,
+                30
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-color-12.png",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/logo-color-12.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 2063,
+            "dimensions": [
+                135,
+                34
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "bg-testimonials.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/bg-testimonials-800x290.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 89959,
+            "dimensions": [
+                1600,
+                580
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/friends-in-cabriolet-5Z2FCB6"
+        },
+        {
+            "filename": "testimonials-people.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/testimonials-people.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 21323,
+            "dimensions": [
+                128,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/casual-man-with-briefcase-CVQQKTC"
+        },
+        {
+            "filename": "map-testi.png",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/map-testi.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 70237,
+            "dimensions": [
+                540,
+                420
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/vector-dotted-world-map-4MLXK3M"
+        },
+        {
+            "filename": "testimonials-people-1.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/testimonials-people-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 17244,
+            "dimensions": [
+                128,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-man-W5YGEL3"
+        },
+        {
+            "filename": "testimonials-people-2.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/testimonials-people-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 22409,
+            "dimensions": [
+                128,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/women-casual-jeans-hat-girl-freedom-simplicity-con-PFNAYCJ"
+        },
+        {
+            "filename": "hero-about.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/hero-about-800x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 93800,
+            "dimensions": [
+                1600,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-woman-driving-car-UNQEF5U"
+        },
+        {
+            "filename": "about-sect2.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/about-sect2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 38252,
+            "dimensions": [
+                476,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-young-man-choosing-new-car-E8NCQRH"
+        },
+        {
+            "filename": "about-sect.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/about-sect.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 43339,
+            "dimensions": [
+                510,
+                399
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-family-going-on-holiday-in-a-car-look-to-cam-PRT4AJ3"
+        },
+        {
+            "filename": "vid-work-overlay.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/vid-work-overlay.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 49222,
+            "dimensions": [
+                690,
+                388
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/salesman-presenting-luxury-car-G3D29AQ"
+        },
+        {
+            "filename": "hero-ourcar.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/hero-ourcar-800x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-cars.json",
+                    "name": "Our Cars"
+                }
+            ],
+            "filesize": 76257,
+            "dimensions": [
+                1600,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/car-seller-showing-customer-car-in-dealership-6X5YKZ2"
+        },
+        {
+            "filename": "hero-car-det.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/hero-car-det-800x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/car-details.json",
+                    "name": "Car Details"
+                }
+            ],
+            "filesize": 73701,
+            "dimensions": [
+                1600,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/friends-travelling-by-rented-car-during-vacations-XKYWVB4"
+        },
+        {
+            "filename": "car-feature-1.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/car-feature-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/car-details.json",
+                    "name": "Car Details"
+                }
+            ],
+            "filesize": 36633,
+            "dimensions": [
+                510,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/dark-luxury-car-interior-PKLVTA8"
+        },
+        {
+            "filename": "car-feature-2.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/car-feature-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/car-details.json",
+                    "name": "Car Details"
+                }
+            ],
+            "filesize": 50450,
+            "dimensions": [
+                510,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smart-phone-with-navigation-app-in-the-car-BYJCQ7N"
+        },
+        {
+            "filename": "car-feature-3.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/car-feature-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/car-details.json",
+                    "name": "Car Details"
+                }
+            ],
+            "filesize": 33997,
+            "dimensions": [
+                510,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/car-interior-backseats-WD2BTX4"
+        },
+        {
+            "filename": "seat.png",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/seat.png",
+            "templates": [
+                {
+                    "source": "templates\/car-details.json",
+                    "name": "Car Details"
+                }
+            ],
+            "filesize": 808,
+            "dimensions": [
+                32,
+                32
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/15-automobile-and-car-icons-49Q32Z"
+        },
+        {
+            "filename": "transmision.png",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/transmision.png",
+            "templates": [
+                {
+                    "source": "templates\/car-details.json",
+                    "name": "Car Details"
+                }
+            ],
+            "filesize": 923,
+            "dimensions": [
+                32,
+                32
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/15-automobile-and-car-icons-49Q32Z"
+        },
+        {
+            "filename": "engine.png",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/engine.png",
+            "templates": [
+                {
+                    "source": "templates\/car-details.json",
+                    "name": "Car Details"
+                }
+            ],
+            "filesize": 622,
+            "dimensions": [
+                32,
+                32
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/15-automobile-and-car-icons-49Q32Z"
+        },
+        {
+            "filename": "cooler.png",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/cooler.png",
+            "templates": [
+                {
+                    "source": "templates\/car-details.json",
+                    "name": "Car Details"
+                }
+            ],
+            "filesize": 1189,
+            "dimensions": [
+                32,
+                32
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/15-automobile-and-car-icons-49Q32Z"
+        },
+        {
+            "filename": "hero-pricing.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/hero-pricing-800x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 91719,
+            "dimensions": [
+                1600,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/visit-to-car-dealership-sale-and-rent-of-transport-R35WZHU"
+        },
+        {
+            "filename": "faq-sect.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/faq-sect.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 46760,
+            "dimensions": [
+                660,
+                848
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/customer-service-executives-working-in-call-center-2QGYTNV"
+        },
+        {
+            "filename": "hero-bookcar.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/hero-bookcar-800x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/book-a-car.json",
+                    "name": "Book a Car"
+                }
+            ],
+            "filesize": 96823,
+            "dimensions": [
+                1600,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/at-a-car-dealership-buying-a-car-CMT2X46"
+        },
+        {
+            "filename": "hero-location.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/hero-location-800x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/locations.json",
+                    "name": "Locations"
+                }
+            ],
+            "filesize": 74389,
+            "dimensions": [
+                1600,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/road-trip-vacation-a-woman-at-the-car-window-4VD4K3A"
+        },
+        {
+            "filename": "hero-contact.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/hero-contact-800x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 77432,
+            "dimensions": [
+                1600,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-adult-female-friends-going-on-vacation-in-a--P8ZY3HJ"
+        },
+        {
+            "filename": "hero-team.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2022\/01\/hero-team-800x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 75532,
+            "dimensions": [
+                1600,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/spouses-looking-at-map-sitting-in-car-traveling-on-D9XG4AZ"
+        },
+        {
+            "filename": "founder-autodrive.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2022\/01\/founder-autodrive.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 66085,
+            "dimensions": [
+                720,
+                920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/creative-style-LQ4KM4W"
+        },
+        {
+            "filename": "team-autodrive.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2022\/01\/team-autodrive.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 37766,
+            "dimensions": [
+                518,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-creative-architect-comparing-sketch-an-C7PPJGG"
+        },
+        {
+            "filename": "team-autodrive-1.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2022\/01\/team-autodrive-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 39452,
+            "dimensions": [
+                518,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/successful-mid-adult-business-woman-2AHVRNQ"
+        },
+        {
+            "filename": "team-autodrive-2.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2022\/01\/team-autodrive-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 32813,
+            "dimensions": [
+                518,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/headshot-of-a-proffessional-man-SUJUD6A"
+        },
+        {
+            "filename": "team-autodrive-3.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2022\/01\/team-autodrive-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 27026,
+            "dimensions": [
+                518,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/elegant-business-woman-E9V7GPD"
+        },
+        {
+            "filename": "team-autodrive-4.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2022\/01\/team-autodrive-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 26606,
+            "dimensions": [
+                518,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/successful-employee-Q5SWL8Y"
+        },
+        {
+            "filename": "team-autodrive-5.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2022\/01\/team-autodrive-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 50630,
+            "dimensions": [
+                518,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-bearded-creative-designer-using-tablet-and-s-WT54NWM"
+        },
+        {
+            "filename": "team-autodrive-6.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2022\/01\/team-autodrive-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 28418,
+            "dimensions": [
+                518,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-psychologist-posing-for-photography-GD5VTJS"
+        },
+        {
+            "filename": "team-autodrive-7.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2022\/01\/team-autodrive-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 32513,
+            "dimensions": [
+                518,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/serious-professional-XDP2UA3"
+        },
+        {
+            "filename": "hero-testimonials.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2022\/01\/hero-testimonials-800x487.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 115251,
+            "dimensions": [
+                1600,
+                973
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/family-on-vacation-in-the-car-U2QJMAT"
+        },
+        {
+            "filename": "testimonials-people-3.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/testimonials-people-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 17970,
+            "dimensions": [
+                128,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/casual-man-with-laptop-YSLZVR4"
+        },
+        {
+            "filename": "testimonials-people-4.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/testimonials-people-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 27103,
+            "dimensions": [
+                128,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-arab-girl-in-casual-clothes-in-the-street-WV56QC9"
+        },
+        {
+            "filename": "testimonials-people-5.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/testimonials-people-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 25097,
+            "dimensions": [
+                128,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/girl-in-smart-casual-QNDHHTV"
+        },
+        {
+            "filename": "testimonials-people-6.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/testimonials-people-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 20002,
+            "dimensions": [
+                128,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/casually-dressed-man-V9UYZRA"
+        },
+        {
+            "filename": "testimonials-people-7.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/testimonials-people-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 24513,
+            "dimensions": [
+                128,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-casual-man-sitting-at-table-KH5H55L"
+        },
+        {
+            "filename": "testimonials-people-8.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/testimonials-people-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 23625,
+            "dimensions": [
+                128,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/workplace-3C6JZSG"
+        },
+        {
+            "filename": "hero-faq.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2021\/12\/hero-faq-800x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 76422,
+            "dimensions": [
+                1600,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-family-going-on-holiday-in-a-car-look-to-cam-PRT4AJ3"
+        },
+        {
+            "filename": "comingsoon-bg-autodrive.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2022\/01\/comingsoon-bg-autodrive-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming soon"
+                }
+            ],
+            "filesize": 102308,
+            "dimensions": [
+                1600,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-friends-making-a-selfie-video-streaming-in-c-XD58ELM"
+        },
+        {
+            "filename": "popup-autodrive.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2022\/01\/popup-autodrive.jpg",
+            "templates": [
+                {
+                    "source": "templates\/popup-banners.json",
+                    "name": "Popup Banners"
+                }
+            ],
+            "filesize": 36735,
+            "dimensions": [
+                345,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/at-a-car-dealership-buying-a-car-F83VGK6"
+        },
+        {
+            "filename": "404-autodrive.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2022\/01\/404-autodrive-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/error-404.json",
+                    "name": "Error 404"
+                }
+            ],
+            "filesize": 104417,
+            "dimensions": [
+                1600,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/the-headlights-and-the-hood-of-a-black-luxury-car-GWBQB43"
+        },
+        {
+            "filename": "hero-singlepost.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2022\/01\/hero-singlepost-800x51.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 27396,
+            "dimensions": [
+                1600,
+                102
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/senior-trendy-couple-inside-a-convertible-car-on-h-4LRTPKB"
+        },
+        {
+            "filename": "hero-blog.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/autodrive\/wp-content\/uploads\/sites\/42\/2022\/01\/hero-blog-800x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                }
+            ],
+            "filesize": 81850,
+            "dimensions": [
+                1600,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/senior-trendy-couple-inside-a-convertible-car-on-h-4LRTPKB"
+        }
+    ]
+}

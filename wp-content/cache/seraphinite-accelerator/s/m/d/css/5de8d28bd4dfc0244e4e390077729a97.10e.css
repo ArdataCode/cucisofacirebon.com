@@ -1,0 +1,1 @@
+.ez-toc-widget-direction{direction:ltr}.ez-toc-widget-container ul{counter-reset:item}.ez-toc-widget-container nav ul li a::before{content:counters(item,".",decimal) ". ";display:inline-block;counter-increment:item;flex-grow:0;flex-shrink:0;margin-right:.2em;float:left}

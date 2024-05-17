@@ -1,0 +1,8 @@
+[14-Mar-2024 06:29:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/ujianori/cucisofacirebon.com/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[14-Mar-2024 06:29:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/ujianori/cucisofacirebon.com/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/cucisofacirebon.com/wp-includes/IXR/class-IXR-introspectionserver.php on line 9

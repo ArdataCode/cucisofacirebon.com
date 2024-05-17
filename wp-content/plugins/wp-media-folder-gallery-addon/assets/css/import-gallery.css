@@ -1,0 +1,189 @@
+.wpmf_trees {
+    padding-left: 20px;
+    margin-top: 0;
+}
+
+.wpmf_categories_tree {
+    width: 100%;
+    display: inline-block;
+    box-sizing: border-box;
+    border-left: #0073ab 2px solid;
+    padding: 0;
+    background: #f1f1f1;
+    min-height: 98px;
+    max-height: 500px;
+    overflow: auto;
+}
+
+.wpmf_categories_tree ul {
+    margin: 0;
+}
+
+.wpmf_categories_tree > ul {
+    padding-left: 0;
+}
+
+.wpmf_categories_tree li {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    z-index: 10;
+    line-height: 18px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    position: relative;
+}
+
+.wpmf-item {
+    margin: 0;
+    width: 100%;
+    display: inline-block;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.wpmf_categories_tree .wpmf-item[data-id="0"]:hover {
+    background: none;
+}
+
+.wpmf-item-inside {
+    width: calc(100% - 25px);
+    position: relative;
+    margin: 0 auto;
+    padding: 5px 0;
+    border: solid 2px transparent;
+    box-sizing: border-box;
+}
+
+.wpmf-item-check {
+    display: inline-block;
+    height: 22px;
+    cursor: pointer;
+}
+
+.wpmf-check {
+    display: none;
+    color: #0073ab !important;
+}
+
+.wpmf_checked .wpmf-item-checkbox-checked,
+.wpmf_notchecked .wpmf-item-checkbox,
+.wpmf_part_checked .wpmf-item-part-checkbox {
+    display: inline-block;
+}
+
+.wpmf-text-item {
+    width: calc(100% - 75px);
+    line-height: 22px;
+    padding: 0;
+    display: inline-block;
+    margin: 0;
+    height: 22px;
+}
+
+.wpmf_categories_tree li[data-id="0"] {
+    margin-left: -20px;
+}
+
+.wpmf_categories_tree li.selected > a {
+    color: #ee4d2d;
+}
+
+.wpmf_categories_tree li.selected:before {
+    content: "";
+    border-left: 3px solid #4986e7;
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 20px;
+    width: 0;
+}
+
+/* Hide if a parent folder is closed */
+.wpmf_categories_tree li.closed li.selected:before {
+    content: normal;
+}
+
+.wpmf-icon-root {
+    height: 24px;
+    width: 24px;
+    margin-right: 5px;
+}
+
+.wpmf-icon-root:after {
+    content: "";
+    left: 30px;
+    width: 24px;
+    height: 24px;
+    background-size: 100% 100%;
+    position: absolute;
+    background-image: url(../images/ju-logo.png);
+}
+
+.wpmf_categories_tree .material-icons {
+    vertical-align: sub;
+    margin-right: 5px;
+    font-size: 24px;
+    color: #b2b2b2;
+}
+
+.wpmf-toggle-icon {
+    margin-right: 5px;
+    display: inline-block;
+    height: 22px;
+}
+
+.wpmf-notoggle-icon {
+    visibility: hidden;
+    opacity: 0;
+}
+
+.wpmf_categories_tree .wpmfgallery-arrow {
+    margin: 0;
+    transform: rotate(90deg);
+}
+
+.wpmf_categories_tree .closed .wpmfgallery-arrow {
+    transform: none;
+}
+
+.wpmf_categories_tree .wpmf-no-arrow {
+    margin-left: 28px;
+}
+
+.wpmf-item-title {
+    width: calc(100% - 35px);
+    text-overflow: ellipsis;
+    overflow: hidden;
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 22px;
+    letter-spacing: normal;
+    text-align: left;
+    color: #707070;
+    vertical-align: text-bottom;
+}
+
+.wpmf-item-title[data-id="0"] {
+    color: #0073aa;
+    font-weight: bold;
+}
+
+.wpmf_categories_tree li.closed > ul {
+    display: none;
+    height: 0;
+    /* todo : add open close animation */
+}
+
+.wpmf_categories_tree li .wpmfgallery-arrow {
+    transition: 0.1s ease-in-out;
+    cursor: pointer;
+}
+
+.wpmf_categories_tree li:not(.closed) > a .wpmfgallery-arrow {
+    transform: rotate(90deg);
+}
